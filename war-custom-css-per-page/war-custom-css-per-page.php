@@ -2,9 +2,10 @@
 /**
  * Plugin Name: Custom CSS per Pagina
  * Description: Aggiunge un'area di testo per CSS personalizzato valido solo per la pagina o il post corrente.
- * Version: 1.1
+ * Version: 1.2
  * Author: Web Agency a Roma
  * Author URI: https://webagencyaroma.it/
+ * Plugin URI: https://webagencyaroma.it/custom-css-per-pagina/
  */
 
 // Impedisce l'accesso diretto
